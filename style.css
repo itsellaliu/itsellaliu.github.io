@@ -1,0 +1,19 @@
+body{
+  font-family: 'Optima', sans-serif;
+  line-height: .8;
+  margin: 0;
+  padding: 10;
+  background-color: #BCE3CF;
+  
+}
+p{
+  text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
