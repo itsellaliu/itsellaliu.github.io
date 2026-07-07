@@ -1,13 +1,13 @@
 header {
     font-family: 'Optima', sans-serif;
-    line-height: 5px;
-    margin: 3px;
+    line-height: 10px;
+    margin: 5px;
     padding: 10px;
     background-color: #BCE3CF;
 }
 body{
   font-family: 'Optima', sans-serif;
-  line-height: .8px;
+  line-height: 1.5px;
   margin: 3px;
   padding: 10px;
   background-color: #BCE3CF;
