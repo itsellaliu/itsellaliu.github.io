@@ -1,11 +1,16 @@
-body{
-  header {
+header {
     font-family: 'Optima', sans-serif;
     line-height: .8px;
     margin: 0px;
     padding: 10px;
     background-color: #BCE3CF;
-  }
+}
+body{
+  font-family: 'Optima', sans-serif;
+  line-height: .8px;
+  margin: 0px;
+  padding: 10px;
+  background-color: #BCE3CF;
 }
 p{
   text-align: center;
