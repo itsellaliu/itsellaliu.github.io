@@ -1,9 +1,8 @@
 header {
     font-family: 'Optima', sans-serif;
-    line-height: 10px;
+    line-height: 24px;
     margin: 10px;
     padding: 10px;
-    background-color: #F3F0E7;
 }
 body{
   font-family: 'Optima', sans-serif;
@@ -13,12 +12,16 @@ body{
   background-color: #C7E7ED;
 }
 
+.conic-default {
+  background-image: conic-gradient(#00909F, #E5ECA0);
+}
+
 p{
-  text-align: center; color: #004364;
+  text-align: center; color: #F3F0E7;
 }
 
 h1{
-    text-align: center; color: #00678B;
+    text-align: center; color: #F3F0E7;
 }
 
 h2{
