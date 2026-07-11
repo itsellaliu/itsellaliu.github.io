@@ -1,24 +1,23 @@
 header {
-    color: #007C94
     font-family: 'Optima', sans-serif;
     line-height: 10px;
     margin: 5px;
     padding: 10px;
-    background-color: #F4F1E7;
+    background-color: #F3F0E7;
 }
 body{
   font-family: 'Optima', sans-serif;
   line-height: 2px;
   margin: 3px;
   padding: 10px;
-  background-color: #F4F1E7;
+  background-color: #90BDCC;
 }
 p{
-  text-align: center;
+  text-align: center; color: #004364;
 }
 
 h1{
-    text-align: center;
+    text-align: center; color: #00678B;
 }
 
 h2{
